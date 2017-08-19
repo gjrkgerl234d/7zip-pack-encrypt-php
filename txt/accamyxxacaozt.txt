@@ -1,0 +1,1 @@
+a:4:{s:4:"urls";a:2:{i:0;s:32:"https://yadi.sk/d/UfjrKISM3M9Q6u";i:1;s:32:"https://yadi.sk/d/8NCXGT-c3M9SYF";}s:2:"sz";s:8:"36107209";s:3:"md5";s:32:"6c73b85ed6ac57197ef70a9e92a0dc7f";s:3:"sha";s:64:"fa63de01897df090802ca8a0598dba905a2ba2bc47d88bb53cf4c3fa8da2febf";}

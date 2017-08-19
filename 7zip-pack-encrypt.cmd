@@ -1,0 +1,1 @@
+php -f 7zip-pack-encrypt.php
